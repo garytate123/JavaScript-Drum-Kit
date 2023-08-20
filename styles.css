@@ -14,12 +14,6 @@ a {
   text-decoration: none;
   color: #4ecca3;
 }
-footer {
-  margin-top: 2%;
-  color: #eeeeee;
-  text-align: center;
-  font-family: "Indie Flower", cursive;
-}
 
 .w {
   background-image: url(images/snare.png);
@@ -84,3 +78,11 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+footer {
+  margin-top: 2%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+
