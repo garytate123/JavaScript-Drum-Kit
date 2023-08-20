@@ -1,7 +1,7 @@
 {
   "name": "drum-kit",
   "version": "1.0.0",
-  "description": "",
+  "description": "A JavaScript project. A Drum Kit example that uses event listeners to trigger sound on key press and onClick.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/garytate123/JavaScript-Drum-Kit.git"
   },
-  "author": "",
+  "author": "Gary Tate",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/garytate123/JavaScript-Drum-Kit/issues"
